@@ -1,0 +1,19 @@
+==========================assignment One==========
+all implementation and questions with answers are putting together with one file in assignment_one folder
+
+languages = jupyter notebook
+
+==========================assignment Two==========
+all implementation and questions with answers are putting together with one file in assignment_two folder
+Report for implementation and result with pdf 
+report file
+
+languages = jupyter notebook
+
+==========================assignment three================
+all implementation and questions with answers are putting together with one file in assignment_three folder
+Report for and result with code that implmented 
+
+readme file contains some information summary 
+
+languages = jupyter notebook
